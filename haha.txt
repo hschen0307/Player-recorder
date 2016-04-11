@@ -1,0 +1,10 @@
+haha:1
+cccc:2
+dddd:4
+
+Terry:4:FFF:5:GG:6:H:7:JJJ:7:2:move:lose
+Yuki:5:KKK:8:YYY:18:SSSS:20:DDD:3:JJJ:7:5:fire:fire:move:lose:fire
+Yuri:2:gggg:4:jjj:3:3:fire:move:win
+Kei:3:Big gun:11:small gun:22:LLLL:2:4:move:fire:move:win
+Mill:2:shooting arrow:15:super gun:5:3:move:lose:move
+worren:1:super gun:10:5:fire:fire:move:fire:win
